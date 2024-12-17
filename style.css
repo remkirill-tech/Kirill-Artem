@@ -1,0 +1,55 @@
+body {
+  background-image: url(https://github.com/remkirill-tech/Kirill-Artem/blob/main/bg.jpg);
+}
+.NLO {
+position: relative;
+left: 1000px;
+top: 50px;
+z-index: 100;
+
+} 
+.planet-1 {
+position: relative;
+top: 50px;
+left: 1000px;
+}
+
+.planet-2 {
+    height: 150px;
+    position: relative;
+    top: 100px;
+    left: 800px;
+}
+.planet-3 {
+    position: relative;
+    left: 500px;
+    top: 200px
+
+}
+.shema {
+    max-height: 150px;
+    position: relative;
+    left: 400px;
+    top: 600px;
+}
+
+.spaceship {
+    height: 100px;
+    position: absolute;
+    left: 550px;
+    top: 750px;
+    z-index: 100;
+}
+.asteroid {
+    position: relative;
+    height: 150px;
+    left: 200px;
+
+}
+.superman {
+    position: absolute;
+    top:750px;
+    left: 200px;
+
+
+}
