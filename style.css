@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://raw.github.com/remkirill-tech/Kirill-Artem/blob/main/bg.jpg);
+  background-image: "https://raw.githubusercontent.com/remkirill-tech/Kirill-Artem/blob/main/bg.jpg" ;
 }
 .NLO {
 position: relative;
